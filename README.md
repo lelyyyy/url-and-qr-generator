@@ -14,7 +14,7 @@ Project ini menggunakan sistem database berbasis **JSON**, sehingga sangat ringa
 ## Teknologi yang Digunakan
 * **Language:** Python 3.10
 * **Framework:** Flask
-* **Libraries:** qrcode, bytesio
+* **Libraries:** qrcode, bytesio, pathlib, base64
 * **Frontend:** HTML5, CSS3
 * **Database:** JSON
 
